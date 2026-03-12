@@ -1,1 +1,3 @@
-# FULL-REARVIEW-MIRROR-SYSTEM
+Acest proiect prezintă dezvoltarea unui sistem complet de control și siguranță pentru oglinzile laterale ale unui vehicul, utilizând platforma Arduino. Sistemul permite atât controlul manual al oglinzilor prin joystick, cât și monitorizarea proximității obiectelor din lateral, oferind avertizări vizuale și sonore pentru prevenirea coliziunilor(Blind Assist).
+
+Funcționalitatea principală include ajustarea precisă a oglinzilor stânga și dreapta prin motoare și servo-uri, retragerea sau extinderea acestora la comandă, precum și detectarea obstacolelor prin senzori ultrasonici. La apropierea obiectelor, LED-urile corespunzătoare se aprind, iar dacă utilizatorul încearcă să comute poziția masinii în condiții de risc, sistemul activează un semnal sonor de avertizare, menținând siguranta operațiunii.
